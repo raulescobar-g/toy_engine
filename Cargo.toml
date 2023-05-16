@@ -1,0 +1,11 @@
+[package]
+name = "toy_physics_engine"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bytemuck = "1.13.1"
+inline-spirv = "0.1.6"
+screen-13 = "0.8.1"
